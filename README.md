@@ -9,7 +9,7 @@
 - [OMS](https://www.who.int/gho/themes/en/)
 - [ANS](http://www.ans.gov.br/planos-de-saude-e-operadoras/informacoes-e-avaliacoes-de-operadoras)
 - [Arquivos de Dados](http://www2.datasus.gov.br/DATASUS/index.php?area=0901&item=1)
-
+- [Plataforma de Ciência de Dados aplicada a Saúde](https://bigdata.icict.fiocruz.br/)
 
 ### Indicadores
  - Ociosidade
