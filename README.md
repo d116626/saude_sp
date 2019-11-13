@@ -21,3 +21,11 @@
   - Média de Permanencia
  - Central de vagas
  - Indicadores da Atenção Básica
+ 
+ 
+ 
+ ### Conversores
+ 
+ - [PySUS](https://github.com/fccoelho/PySUS/tree/master/pysus/utilities)
+ - [dbc2csv](https://github.com/greatjapa/dbc2csv)
+ - [Stack](https://stackoverflow.com/questions/54661137/convert-dbc-files-into-csv-with-python)
