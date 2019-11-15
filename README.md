@@ -10,7 +10,10 @@
 - [ANS](http://www.ans.gov.br/planos-de-saude-e-operadoras/informacoes-e-avaliacoes-de-operadoras)
 - [Arquivos de Dados](http://www2.datasus.gov.br/DATASUS/index.php?area=0901&item=1)
 - [Plataforma de Ciência de Dados aplicada a Saúde](https://bigdata.icict.fiocruz.br/)
-
+- [Indicadores](http://indicador-hospitalar.blogspot.com/search/label/200.1-Indicadores%20Hospitalar)
+ 
+ 
+ 
 - [Assistência à Saúde](http://www2.datasus.gov.br/DATASUS/index.php?area=0202)
 
 - [SIOPS - Sistema de Informações sobre Orçamentos Públicos em Saúde](http://www.saude.gov.br/repasses-financeiros/siops/demonstrativos-dados-informados#SAA2)
