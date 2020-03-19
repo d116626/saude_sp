@@ -17,6 +17,7 @@
 - [Assistência à Saúde](http://www2.datasus.gov.br/DATASUS/index.php?area=0202)
 
 - [SIOPS - Sistema de Informações sobre Orçamentos Públicos em Saúde](http://www.saude.gov.br/repasses-financeiros/siops/demonstrativos-dados-informados#SAA2)
+- [Dengue](https://extranet.saude.go.gov.br/public/dengue.html)
 
 ### Indicadores
  - Ociosidade
